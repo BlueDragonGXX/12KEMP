@@ -20,5 +20,7 @@ P.S. My keys look a little bit wonky since I used some 3-pin switches I had layi
 Inquiries for PCB's can be sent to *bluedragongxx@gmail.com*, or at *+1 (424)-220-4960*
 
 # Credits
-Kudos to:
-[Jeroen94704's "klepcbgen"](https://github.com/jeroen94704/klepcbgen) & [Contributors of the "vial-qmk" repo](https://github.com/vial-kb/vial-qmk)
+Kudos to:<br>
+[Jeroen94704's "klepcbgen"](https://github.com/jeroen94704/klepcbgen)<br>
+[Contributors of the "vial-qmk" repo](https://github.com/vial-kb/vial-qmk)<br>
+[xwing's Rotary Encoder Knob](https://www.printables.com/model/168924-rotary-encoder-knob/comments/1590018)
