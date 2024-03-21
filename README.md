@@ -17,7 +17,7 @@ P.S. My keys look a little bit wonky since I used some 3-pin switches I had layi
 
 # Inquiries
 
-Inquiries for PCB's can be sent to *bluedragongxx@gmail.com*
+Inquiries for PCB's can be sent to *bluedragongxx@gmail.com*, or at *+1 (424)-220-4960*
 
 # Credits
 Kudos to:
