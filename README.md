@@ -15,6 +15,10 @@ P.S. My keys look a little bit wonky since I used some 3-pin switches I had layi
 > 4. Qty. 12 Switches --- Any 3/5-pin switch you would like. 5-pins are recommeded.
 > 5. Qty. 1 PCB --- For mine, I used JLCPCB. It cost around 10 dollars for the pcb and shipping. Took about two weeks to finish manufacturing and arrival. You may use any other service you would like for a pcb (Gerbers are linked above). I do have four extras however, so if you would like them please contact me and I can get you one for five dollars (including shipping) through Venmo.
 
+# Inquiries
+
+Inquiries for PCB's can be sent to *bluedragongxx@gmail.com*
+
 # Credits
 Kudos to:
 [Jeroen94704's "klepcbgen"](https://github.com/jeroen94704/klepcbgen) & [Contributors of the "vial-qmk" repo](https://github.com/vial-kb/vial-qmk)
