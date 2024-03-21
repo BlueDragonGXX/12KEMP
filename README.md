@@ -15,6 +15,14 @@ P.S. My keys look a little bit wonky since I used some 3-pin switches I had layi
 > 4. Qty. 12 Switches --- Any 3/5-pin switch you would like. 5-pins are recommeded.
 > 5. Qty. 1 PCB --- For mine, I used JLCPCB. It cost around 10 dollars for the pcb and shipping. Took about two weeks to finish manufacturing and arrival. You may use any other service you would like for a pcb (Gerbers are linked above). I do have four extras however, so if you would like one please contact me and I can get you one for five dollars (including shipping) through Venmo.
 
+# Firmware
+
+To install firmware on the Arduino Pro Micro, you can use (QMK Toolbox)[https://github.com/qmk/qmk_toolbox].
+1. Download and install [QMK Toolbox](https://github.com/qmk/qmk_toolbox)
+2. Download the [firmware](https://wchendev.s3.us-west-1.amazonaws.com/12KEMP/12KEMP.hex)
+3. Plug in your Pro Micro into your computer
+4. Open QMK Toolbox and load 
+
 # Inquiries
 
 Inquiries for PCB's can be sent to *bluedragongxx@gmail.com*, or at *+1 (424)-220-4960*
