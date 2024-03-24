@@ -14,6 +14,8 @@ P.S. My keys look a little bit wonky since I used some 3-pin switches I had layi
 > 3. Qty. 1 [Headers](https://www.digikey.com/en/products/detail/cnc-tech/220-1-24-006/3441519) --- (Only required if Pro Micro doesn't come with some.) 
 > 4. Qty. 12 Switches --- Any 3/5-pin switch you would like. 5-pins are recommeded.
 > 5. Qty. 1 PCB --- For mine, I used JLCPCB. It cost around 10 dollars for the pcb and shipping. Took about two weeks to finish manufacturing and arrival. You may use any other service you would like for a pcb (Gerbers are linked above). I do have four extras however, so if you would like one please contact me and I can get you one for five dollars (including shipping) through Venmo.
+> 6. Qty. 12 Keycaps --- Any Cherry MX style keycap will do.
+> 7. Qty. 1 Encoder Knob --- This can be 3D printed or bought online. Make sure its for a 6mm "D" shape encoder.
 
 # Firmware
 
