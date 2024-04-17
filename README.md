@@ -2,10 +2,10 @@
 12KEMP is a 12 key 4 by 3 macropad, that features an Arduino Pro Micro with vial-qmk support, a rotary encoder, and a custom pcb with support for 3/5-pin switches.
 All PCB files are in this repo, and you may create any form of case to mount the pcb onto. Additionally, a bill of materials (BOM) is included. This project does require soldering.
 
-![12KEMP Image](https://wchendev.s3.us-west-1.amazonaws.com/12KEMP/12KEMP.jpg#)
+![12KEMP Image](https://d4h2y4j1ag16u.cloudfront.net/12KEMP/12KEMP.jpg#)
 P.S. My keys look a little bit wonky since I used some 3-pin switches I had laying around. 5-pin switches are preferred since they are already aligned.
 
-# [Gerber Download](https://wchendev.s3.us-west-1.amazonaws.com/12KEMP/12KEMPGerbers.zip)
+# [Gerber Download](https://d4h2y4j1ag16u.cloudfront.net/12KEMP/12KEMPGerbers.zip)
 
 # Bill of Materials
 
@@ -21,7 +21,7 @@ P.S. My keys look a little bit wonky since I used some 3-pin switches I had layi
 
 To install firmware on the Arduino Pro Micro, you can use (QMK Toolbox)[https://github.com/qmk/qmk_toolbox].
 1. Download and install [QMK Toolbox](https://github.com/qmk/qmk_toolbox)
-2. Download the [firmware](https://wchendev.s3.us-west-1.amazonaws.com/12KEMP/12KEMP.hex)
+2. Download the [firmware](https://d4h2y4j1ag16u.cloudfront.net/12KEMP/12KEMP.hex)
 3. Plug in your Pro Micro into your computer
 4. Open QMK Toolbox and load 
 
