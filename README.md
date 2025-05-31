@@ -19,7 +19,7 @@ P.S. My keys look a little bit wonky since I used some 3-pin switches I had layi
 
 # Firmware
 
-To install firmware on the Arduino Pro Micro, you can use (QMK Toolbox)[https://github.com/qmk/qmk_toolbox].
+To install firmware on the Arduino Pro Micro, you can use [QMK Toolbox](https://github.com/qmk/qmk_toolbox).
 1. Download and install [QMK Toolbox](https://github.com/qmk/qmk_toolbox)
 2. Download the [firmware](https://d4h2y4j1ag16u.cloudfront.net/12KEMP/12KEMP.hex)
 3. Plug in your Pro Micro into your computer
