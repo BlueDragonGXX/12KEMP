@@ -23,7 +23,8 @@ To install firmware on the Arduino Pro Micro, you can use [QMK Toolbox](https://
 1. Download and install [QMK Toolbox](https://github.com/qmk/qmk_toolbox)
 2. Download the [firmware](https://d4h2y4j1ag16u.cloudfront.net/12KEMP/12KEMP.hex)
 3. Plug in your Pro Micro into your computer
-4. Open QMK Toolbox and load 
+4. Open QMK Toolbox and load
+5. After the keyboard reboots, it should be configurable in [Vial](https://get.vial.today)
 
 # Credits
 Kudos to:<br>
